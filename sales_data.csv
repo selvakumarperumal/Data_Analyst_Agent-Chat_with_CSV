@@ -1,0 +1,11 @@
+order_id,customer_id,category,product,quantity,price,revenue
+1001,1,Electronics,Laptop,1,800,800
+1002,2,Clothing,T-Shirt,2,20,40
+1003,3,Electronics,Headphones,1,100,100
+1004,1,Furniture,Chair,4,150,600
+1005,4,Clothing,Jeans,3,40,120
+1006,2,Furniture,Desk,2,200,400
+1007,5,Electronics,Phone,1,700,700
+1008,3,Clothing,Shoes,2,60,120
+1009,4,Furniture,Sofa,1,500,500
+1010,5,Electronics,Tablet,3,300,900
